@@ -1,3 +1,9 @@
 body{
-    background-color: blue;
+    background-color:burlywood;
 }
+.main-menu{
+    display: flex;
+    list-style: none;
+    gap: 16px;
+
+}    

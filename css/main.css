@@ -1,9 +1,14 @@
 body{
-    background-color:burlywood;
+    background-color:bisque;
 }
 .main-menu{
     display: flex;
     list-style: none;
     gap: 16px;
-
-}    
+    justify-content: center;
+}  
+.selectores {
+    width: 52%;
+    /* border: 1px solid;  */
+    margin: 0 auto;
+}

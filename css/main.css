@@ -1,3 +1,22 @@
 body{
-    background-color: blue;
+    background-color: azure;
+}
+
+.menu.link.social{
+    color: brown;
+    font-weight: bolder;
+}
+
+ul.menu.social{
+    /* border: 2px dotted yellow; */
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.copyritght{
+    text-align: center;
 }

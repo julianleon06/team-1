@@ -1,4 +1,27 @@
+
     /*Julian*/
+
+
+.menu.link.social{
+    color: brown;
+    font-weight: bolder;
+}
+
+ul.menu.social{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    width: 250px;
+    margin: 0 auto;
+    font-family: monospace;
+    font-size: 14px;
+}
+ 
+.copyritght{
+    text-align: center;
+}
+
 .main-menu{
     display: flex;
     list-style: none;
@@ -7,7 +30,7 @@
    
 }  
 .selectores {
-    width: 52%;
+    width: 54%;
     /* border: 1px solid;  */
     margin: 0 auto;
     background-color: aquamarine;

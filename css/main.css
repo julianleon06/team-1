@@ -1,5 +1,6 @@
 /*Julian*/
 body{
+<<<<<<< HEAD
     background-color: azure;
 }
 
@@ -23,3 +24,20 @@ ul.menu.social{
 .copyritght{
     text-align: center;
 }
+=======
+    background-color:rgb(231, 219, 203);
+}
+.main-menu{
+    display: flex;
+    list-style: none;
+    gap: 16px;
+    justify-content: center;
+   
+}  
+.selectores {
+    width: 52%;
+    /* border: 1px solid;  */
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+>>>>>>> fe47d093724b66fcf753c1b8ae306f8b90e40507

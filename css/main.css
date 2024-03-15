@@ -1,4 +1,6 @@
-
+body{
+    background-color: bisque;
+}
 .menu.link.social{
     color: brown;
     font-weight: bolder;

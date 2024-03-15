@@ -6,9 +6,11 @@ body{
     list-style: none;
     gap: 16px;
     justify-content: center;
+   
 }  
 .selectores {
     width: 52%;
     /* border: 1px solid;  */
     margin: 0 auto;
+    background-color: aquamarine;
 }
